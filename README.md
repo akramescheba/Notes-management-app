@@ -4,7 +4,7 @@ Application based on react.js allowing the management of notes (adding modificat
 
 Download and install node.js
 
-Do the following command to check the version of node
+Do the following command to check the version of node.js
 ```bash
     node --version
 ```

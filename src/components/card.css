@@ -1,0 +1,43 @@
+.row{
+  margin: 20px auto 0;
+  padding: 0 10px;
+  max-width: 850px;
+
+  justify-content: center;
+
+
+
+
+ 
+  
+   
+
+  border-radius: 15px;
+
+  box-shadow: 1px 1px 1px 1px rgba(5, 46, 107, 0.384);
+  }
+  .card-wrapper {
+    width: 400px;
+   min-height: 10px; 
+   background-color: rgb(219, 215, 216);
+   color: rgb(56, 56, 56);
+   padding: 20px;
+   border-radius: 15px;
+   margin: auto;
+   box-shadow: 1px 1px 1px 1px rgba(5, 46, 107, 0.384);
+  
+  }
+  
+
+
+.card-wrapper {
+  width: 400px;
+ min-height: 10px; 
+ background-color: rgb(219, 215, 216);
+ color: rgb(56, 56, 56);
+ padding: 20px;
+ border-radius: 15px;
+ margin: auto;
+ box-shadow: 1px 1px 1px 1px rgba(5, 46, 107, 0.384);
+
+}

@@ -1,0 +1,18 @@
+
+
+
+.nav {
+
+    
+    background-color:rgba(226, 216, 209, 0.705);
+    border: 1px solid rgb(236, 232, 232);
+    box-shadow:  0px 2px 1px rgba(5, 46, 107, 0.384);
+    padding: 5px; 
+    margin: 0% 0% 1% 0%;
+    text-transform: uppercase;
+    color: rgba(26, 158, 235, 0.788);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
